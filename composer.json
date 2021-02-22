@@ -1,0 +1,22 @@
+{
+    "require": {
+        "geoip2/geoip2": "^2.3",
+        "kriswallsmith/assetic": "^1.4",
+        "authorizenet/authorizenet": "^1.9",
+        "stripe/stripe-php": "^6.19",
+        "phpmailer/phpmailer": "^6.0"
+    },
+	
+    "autoload": {
+        "classmap": [
+          "core/",
+            "plugins/"
+
+        ],
+
+		"psr-4": {
+			"App\\":"app",
+			"Models\\":"models"
+		}
+	}
+}

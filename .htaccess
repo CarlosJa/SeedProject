@@ -1,0 +1,12 @@
+RewriteEngine On
+
+# If HTTPS not Found Redirect to HTTPS
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://www.seedproject.com/$1 [R,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+
+# enable PHP error logging
