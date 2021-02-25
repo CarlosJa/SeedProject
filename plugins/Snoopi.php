@@ -19,7 +19,7 @@
 
 class Snoopi { 
 
- private $api_key = '4e226c51d21201e6ef0b4ae3a2e83023';   // INSERT YOUR KEY HERE
+ private $api_key = 'YOURAPIKEY';   // INSERT YOUR KEY HERE
  private $url = "https://api.snoopi.io/v1";
 
 
