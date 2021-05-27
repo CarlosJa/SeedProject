@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthorExpressionAccess.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="AuthorReadOnly.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="AuthorReadOnlyPerClass.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="BlogPost.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.Car.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.ImagePost.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.Moped.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.ObjectWithXmlAttributeDiscriminatorParent.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.ObjectWithXmlNamespaceAttributeDiscriminatorParent.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.ObjectWithXmlNamespaceDiscriminatorParent.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.Post.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.Vehicle.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="DiscriminatorGroup.Vehicle.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Node.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithAbsentXmlListNode.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithExpressionVirtualPropertiesAndExcludeAll.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithHandlerCallbacks.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithVirtualProperties.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithVirtualPropertiesAndExcludeAll.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithXmlKeyValuePairs.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithXmlNamespaces.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ParentSkipWithEmptyChild.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Person.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="PersonSecret.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Price.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="SimpleClassObject.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="SimpleSubClassObject.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+</dwsync>

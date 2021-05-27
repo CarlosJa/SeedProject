@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCollection.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="AbstractMap.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="CollectionInterface.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="AbstractSequence.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="EntityLikeObject.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="Map.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="MapInterface.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="ObjectBasics.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="ObjectBasicsHandler.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="ObjectBasicsHandlerRegistry.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="SequenceInterface.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="Sequence.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="Set.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="SetInterface.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="SortableInterface.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+<file name="SortedSequence.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666336000000000" Dst="0" />
+</dwsync>

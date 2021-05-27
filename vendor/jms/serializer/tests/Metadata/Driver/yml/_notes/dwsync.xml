@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthorExpressionAccess.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="AuthorReadOnly.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="AuthorReadOnlyPerClass.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="BlogPost.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.Car.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.ImagePost.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.Moped.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.ObjectWithXmlAttributeDiscriminatorParent.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.ObjectWithXmlNamespaceAttributeDiscriminatorParent.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.ObjectWithXmlNamespaceDiscriminatorParent.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.Post.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Discriminator.Vehicle.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="DiscriminatorGroup.Vehicle.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ExcludePublicAccessor.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Node.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithAbsentXmlListNode.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithExpressionVirtualPropertiesAndExcludeAll.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithHandlerCallbacks.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithVirtualProperties.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithVirtualPropertiesAndExcludeAll.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithXmlKeyValuePairs.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ObjectWithXmlNamespaces.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="ParentSkipWithEmptyChild.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Person.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="PersonSecret.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="Price.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="SimpleClassObject.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+<file name="SimpleSubClassObject.yml" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666335400000000" Dst="0" />
+</dwsync>
