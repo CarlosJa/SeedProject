@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<dwsync>
-<file name="AdvancedNamingStrategyInterface.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666334800000000" Dst="0" />
-<file name="CacheNamingStrategy.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666334800000000" Dst="0" />
-<file name="CamelCaseNamingStrategy.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666334800000000" Dst="0" />
-<file name="IdenticalPropertyNamingStrategy.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666334800000000" Dst="0" />
-<file name="PropertyNamingStrategyInterface.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666334800000000" Dst="0" />
-<file name="SerializedNameAnnotationStrategy.php" server="149.28.110.58/public_html/" local="132587431700000000" remote="132666334800000000" Dst="0" />
-</dwsync>

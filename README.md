@@ -7,8 +7,8 @@ SeedProject Framework - is a super lite framework i built for my web application
 Follow the steps: 
 
 1. clone the repo: git clone https://github.com/CarlosJa/SeedProject.git
-2. in SSH Putty type:  composer dump-autoload    
-3. You're ready to go.
+2. You're ready to go.
+Note: If you're getting error regardineg the Vendor files  go into your putty and type:  composer dump-autoload
 
 ---
 

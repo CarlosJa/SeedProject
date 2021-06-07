@@ -9,7 +9,7 @@ error_reporting(E_ALL);
 require 'config.php';
 
 # run the following command in linux -> composer dump-autoload
- require $_SERVER['DOCUMENT_ROOT'] . '/vendor/autoload.php';
+ require __DIR__ . '/vendor/autoload.php';
 
 
 // Load the Bootstrap!
