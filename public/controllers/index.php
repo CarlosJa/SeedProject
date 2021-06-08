@@ -12,7 +12,7 @@ class Index extends Controller {
 		$this->Styles[] = '/public/assets/css/style.css';
 		$this->view->Styles = $this->Styles;
 		
-
+        $this->model->welcome();
         $this->view->title = 'Home' . COMPANY;
         $this->view->render('index/index');
     }
