@@ -1,5 +1,5 @@
 <?php
-class Games_Model extends Model
+class Index_Model extends Model
 {
     public function __construct()
     {
@@ -7,10 +7,5 @@ class Games_Model extends Model
     }
 
 
-    public function welcome()
-    {
-		echo "Welcome Index Model";
-	}
-	
 	
 } // End Class 
